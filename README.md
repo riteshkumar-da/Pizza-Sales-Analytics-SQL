@@ -84,6 +84,3 @@ This structure enables efficient joins, aggregations, and time-based analysis.
 - Provided revenue-driven insights to support strategic decisions  
 
 ---
-
-## Demo
-()
